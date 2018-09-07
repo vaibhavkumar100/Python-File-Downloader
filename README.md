@@ -4,7 +4,7 @@ Usage:
 
 open Terminal/Command promt and type:
 
-$ python download.py <URL> <Path where to save>(Optional, by default '.')
+$ python download.py "URL" "Path where to save" (Optional, by default '.')
   
 for example, 
   ~$ python download.py http://sample.com/sampleVideo.mp4 
